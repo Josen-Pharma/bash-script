@@ -3,6 +3,7 @@
 echo "This script is for installing and running sonarqube"
 sleep 1
 echo "Please run create a new user and run the script in the opt directory of the new user"
+# cd /opt
 echo "Make sure user has sudo priviledge"
 sleep 1
 echo "Updating the package manager"
